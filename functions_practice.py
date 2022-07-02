@@ -19,14 +19,6 @@ def eat_lunch(food_list):
       else:
         print(f"Next I eat {food_list[i]}")
 
-# def eat_lunch(food_list):
-#   x = 0
-#   for i in food_list:
-#       if (x == 0):
-#           print("First I eat", i)
-#       else:
-#           print("Next I eat", i)
-#       x+=1
 
 hello()
 print(pack('arg1',"arg2","arg3"))
